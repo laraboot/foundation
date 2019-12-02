@@ -1,4 +1,4 @@
-package cn.laraboot.support;
+package cn.laraboot.foundation.manager;
 
 import java.util.HashMap;
 import java.util.Map;

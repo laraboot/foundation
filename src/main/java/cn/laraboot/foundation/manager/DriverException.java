@@ -1,4 +1,4 @@
-package cn.laraboot.support;
+package cn.laraboot.foundation.manager;
 
 public class DriverException extends Exception {
 
