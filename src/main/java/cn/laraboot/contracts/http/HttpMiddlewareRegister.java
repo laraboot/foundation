@@ -1,6 +1,6 @@
 package cn.laraboot.contracts.http;
 
-import cn.laraboot.framework.contracts.kernel.pipeline.Dockable;
+import cn.laraboot.contracts.kernel.pipeline.Dockable;
 
 import java.util.List;
 import java.util.Map;

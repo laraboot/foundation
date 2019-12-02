@@ -10,7 +10,23 @@
 
     <properties>
         <project.name>laraboot-foundation</project.name>
+        <org.springframework.version>5.2.1.RELEASE</org.springframework.version>
     </properties>
+
+    <dependencies>
+
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-web</artifactId>
+            <version>${org.springframework.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.tomcat.embed</groupId>
+            <artifactId>tomcat-embed-core</artifactId>
+            <version>9.0.26</version>
+        </dependency>
+    </dependencies>
 
 
     <build>
