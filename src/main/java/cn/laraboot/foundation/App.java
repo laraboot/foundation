@@ -17,7 +17,6 @@ public class App implements ApplicationContextAware {
      */
     private static ApplicationContext applicationContext;
 
-    @Autowired
     public void setApplicationContext(ApplicationContext applicationContext) throws BeansException {
         App.applicationContext = applicationContext;
     }
